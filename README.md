@@ -2,6 +2,8 @@
 
 Aggregated US domestic flight statistics from the U.S. Bureau of Transportation Statistics (BTS) On-Time Reporting Carrier On-Time Performance data. These are the same files DelayGuard publishes at https://www.delayguard.ai/data, plus a Thanksgiving-week table and a winter cancellation table. Background and write-ups: https://www.delayguard.ai/research
 
+DOI: [10.5281/zenodo.24445333](https://doi.org/10.5281/zenodo.24445333) (all versions). Also on [Kaggle](https://www.kaggle.com/datasets/delayguard/us-flight-delay-and-cancellation-stats-2023-2025) and [GitHub](https://github.com/DelayGuard/us-flight-delay-statistics).
+
 ## Files
 | path | what |
 |---|---|
@@ -40,6 +42,6 @@ BTS_PARQUET='bts/bts_202[345]_*.parquet' python3 scripts/build_tables.py
 ## License and citation
 CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/), full text in LICENSE. Underlying data is from BTS (U.S. government work). Cite as:
 
-> DelayGuard. US flight delay and cancellation statistics, 2023-2025 (from BTS On-Time Performance data). https://www.delayguard.ai/data
+> DelayGuard. US flight delay and cancellation statistics, 2023-2025 (from BTS On-Time Performance data). https://www.delayguard.ai/data. DOI: https://doi.org/10.5281/zenodo.24445333
 
 Data page: https://www.delayguard.ai/data | Research: https://www.delayguard.ai/research
