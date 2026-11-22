@@ -1,0 +1,4 @@
+year,thanksgiving_date,scheduled_flights,cancelled,cancel_rate_pct,flights_with_arrival_status,delay_rate_pct
+2023,2023-11-23,103242,91,0.09,103024,17.55
+2024,2024-11-28,108125,148,0.14,107863,17.58
+2025,2025-11-27,105929,2184,2.06,103485,26.6

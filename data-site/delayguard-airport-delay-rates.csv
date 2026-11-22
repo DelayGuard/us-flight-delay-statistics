@@ -1,0 +1,40 @@
+airport_code,airport,flights_delay_window,delay_rate_pct,cancel_rate_pct,delay_window,cancel_window
+FLL,Fort Lauderdale-Hollywood International Airport,264272,27.34,1.44,January 2023 to December 2025,2024 to 2025
+MIA,Miami International Airport,319024,27.03,1.49,January 2023 to December 2025,2024 to 2025
+DFW,Dallas/Fort Worth International Airport,893078,26.66,2.31,January 2023 to December 2025,2024 to 2025
+MCO,Orlando International Airport,476054,25.9,1.43,January 2023 to December 2025,2024 to 2025
+CLT,Charlotte Douglas International Airport,598576,24.91,1.53,January 2023 to December 2025,2024 to 2025
+DEN,Denver International Airport,902804,24.71,0.95,January 2023 to December 2025,2024 to 2025
+BWI,BWI,286893,24.31,,January 2023 to December 2025,2024 to 2025
+ORD,Chicago O'Hare International Airport,850994,24.25,1.56,January 2023 to December 2025,2024 to 2025
+EWR,Newark Liberty International Airport,376766,23.43,2.52,January 2023 to December 2025,2024 to 2025
+IAH,George Bush Intercontinental Airport,339044,23.28,1.66,January 2023 to December 2025,2024 to 2025
+PHL,Philadelphia International Airport,282615,23.23,1.88,January 2023 to December 2025,2024 to 2025
+MDW,Midway (MDW),235201,23.19,,January 2023 to December 2025,2024 to 2025
+LAS,Harry Reid International Airport,556960,23.17,0.82,January 2023 to December 2025,2024 to 2025
+JFK,John F. Kennedy International Airport,352760,22.93,1.93,January 2023 to December 2025,2024 to 2025
+DAL,Love Field (DAL),215350,22.58,,January 2023 to December 2025,2024 to 2025
+BOS,Boston Logan International Airport,418699,22.37,1.56,January 2023 to December 2025,2024 to 2025
+SAN,San Diego (SAN),278406,21.82,,January 2023 to December 2025,2024 to 2025
+DCA,Reagan National (DCA),411692,21.66,,January 2023 to December 2025,2024 to 2025
+AUS,Austin (AUS),261449,21.57,,January 2023 to December 2025,2024 to 2025
+SEA,Seattle-Tacoma International Airport,486931,21.05,0.96,January 2023 to December 2025,2024 to 2025
+ATL,Hartsfield-Jackson Atlanta International Airport,979661,21.01,1.21,January 2023 to December 2025,2024 to 2025
+SFO,San Francisco International Airport,409744,20.79,1.03,January 2023 to December 2025,2024 to 2025
+LGA,LaGuardia Airport,448129,20.64,2.67,January 2023 to December 2025,2024 to 2025
+STL,St. Louis (STL),189109,20.59,,January 2023 to December 2025,2024 to 2025
+HOU,Hobby (HOU),165438,20.13,,January 2023 to December 2025,2024 to 2025
+DTW,Detroit Metropolitan Wayne County Airport,374952,19.27,1.07,January 2023 to December 2025,2024 to 2025
+CVG,Cincinnati (CVG),112509,19.24,,January 2023 to December 2025,2024 to 2025
+PHX,Phoenix Sky Harbor International Airport,561852,19.16,0.66,January 2023 to December 2025,2024 to 2025
+IAD,Dulles (IAD),157996,19.05,,January 2023 to December 2025,2024 to 2025
+LAX,Los Angeles International Airport,572741,18.36,0.75,January 2023 to December 2025,2024 to 2025
+MSP,Minneapolis-Saint Paul International Airport,357344,18.32,0.85,January 2023 to December 2025,2024 to 2025
+SNA,John Wayne (SNA),131590,18.16,,January 2023 to December 2025,2024 to 2025
+OAK,Oakland (OAK),120833,17.95,,January 2023 to December 2025,2024 to 2025
+BUR,Burbank (BUR),89563,17.61,,January 2023 to December 2025,2024 to 2025
+SAT,San Antonio (SAT),121335,17.6,,January 2023 to December 2025,2024 to 2025
+SMF,Sacramento (SMF),164396,16.76,,January 2023 to December 2025,2024 to 2025
+SLC,Salt Lake City International Airport,335788,16.7,0.57,January 2023 to December 2025,2024 to 2025
+ONT,Ontario (ONT),75772,16.6,,January 2023 to December 2025,2024 to 2025
+SJC,San Jose (SJC),147027,15.75,,January 2023 to December 2025,2024 to 2025

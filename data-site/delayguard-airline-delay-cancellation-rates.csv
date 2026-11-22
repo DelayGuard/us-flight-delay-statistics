@@ -1,0 +1,11 @@
+airline,status,flights_delay_window,delay_rate_pct,cancel_rate_pct,delay_window,cancel_window
+Delta Air Lines,active,2983184,17.83,1,January 2023 to December 2025,2024 to 2025
+United Airlines,active,2252227,20.66,1.22,January 2023 to December 2025,2024 to 2025
+Southwest Airlines,active,4202672,21.27,0.84,January 2023 to December 2025,2024 to 2025
+Alaska Airlines,active,724893,21.6,1.58,January 2023 to December 2025,2024 to 2025
+Allegiant Air,active,359199,24.21,1.06,January 2023 to December 2025,2024 to 2025
+American Airlines,active,2847015,24.98,1.68,January 2023 to December 2025,2024 to 2025
+JetBlue Airways,active,730301,27.79,1.6,January 2023 to December 2025,2024 to 2025
+Frontier Airlines,active,571133,29.28,2.05,January 2023 to December 2025,2024 to 2025
+Spirit Airlines,historical,705662,25.16,1.74,January 2023 to December 2025,2024 to 2025
+Hawaiian Airlines,historical,236810,18.86,0.93,January 2023 to December 2025,2024 to 2025

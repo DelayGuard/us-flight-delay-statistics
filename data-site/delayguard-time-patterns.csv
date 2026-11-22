@@ -1,0 +1,41 @@
+dimension,value,flights,delay_rate_pct,cancel_rate_pct,airports_included,delay_window
+scheduled_hour,12 AM,26906,18.87,,39,January 2023 to December 2025
+scheduled_hour,1 AM,3493,22.24,,39,January 2023 to December 2025
+scheduled_hour,5 AM,258872,8.05,,39,January 2023 to December 2025
+scheduled_hour,6 AM,747234,9.35,,39,January 2023 to December 2025
+scheduled_hour,7 AM,928403,12.45,,39,January 2023 to December 2025
+scheduled_hour,8 AM,1101331,14.37,,39,January 2023 to December 2025
+scheduled_hour,9 AM,909880,15.93,,39,January 2023 to December 2025
+scheduled_hour,10 AM,913157,17.46,,39,January 2023 to December 2025
+scheduled_hour,11 AM,877420,19.12,,39,January 2023 to December 2025
+scheduled_hour,12 PM,783051,20.21,,39,January 2023 to December 2025
+scheduled_hour,1 PM,829995,22.29,,39,January 2023 to December 2025
+scheduled_hour,2 PM,784288,24.96,,39,January 2023 to December 2025
+scheduled_hour,3 PM,816647,26.32,,39,January 2023 to December 2025
+scheduled_hour,4 PM,812799,28.12,,39,January 2023 to December 2025
+scheduled_hour,5 PM,839076,29.7,,39,January 2023 to December 2025
+scheduled_hour,6 PM,863906,30.6,,39,January 2023 to December 2025
+scheduled_hour,7 PM,837943,31.29,,39,January 2023 to December 2025
+scheduled_hour,8 PM,770824,31.15,,39,January 2023 to December 2025
+scheduled_hour,9 PM,612816,28.55,,39,January 2023 to December 2025
+scheduled_hour,10 PM,451165,28.17,,39,January 2023 to December 2025
+scheduled_hour,11 PM,153485,21.88,,39,January 2023 to December 2025
+weekday,Monday,2145542,22.5,,39,January 2023 to December 2025
+weekday,Tuesday,1990849,18.65,,39,January 2023 to December 2025
+weekday,Wednesday,2006283,19.89,,39,January 2023 to December 2025
+weekday,Thursday,2117206,23.38,,39,January 2023 to December 2025
+weekday,Friday,2131384,24.14,,39,January 2023 to December 2025
+weekday,Saturday,1828498,21.2,,39,January 2023 to December 2025
+weekday,Sunday,2103585,25.03,,39,January 2023 to December 2025
+month,January,1100246,22.07,3.25,39,January 2023 to December 2025
+month,February,1047395,18.99,0.92,39,January 2023 to December 2025
+month,March,1212107,22.2,0.92,39,January 2023 to December 2025
+month,April,1186947,21.54,0.72,39,January 2023 to December 2025
+month,May,1237501,23.97,1.18,39,January 2023 to December 2025
+month,June,1220282,28.33,1.44,39,January 2023 to December 2025
+month,July,1251522,30.76,2.77,39,January 2023 to December 2025
+month,August,1244889,23.9,1.57,39,January 2023 to December 2025
+month,September,1188112,17.85,0.5,39,January 2023 to December 2025
+month,October,1259657,17.11,0.68,39,January 2023 to December 2025
+month,November,1177910,16.81,1.45,39,January 2023 to December 2025
+month,December,1196779,21.72,1.06,39,January 2023 to December 2025
